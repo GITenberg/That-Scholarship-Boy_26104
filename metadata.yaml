@@ -1,0 +1,25 @@
+_repo: That-Scholarship-Boy_26104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Emma
+    gutenberg_agent_id: '8498'
+    url: http://www.gutenberg.org/2009/agents/8498
+description: ''
+gutenberg_issued: '2008-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: That Scholarship Boy
+url: http://www.gutenberg.org/ebooks/26104
